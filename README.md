@@ -4,4 +4,4 @@ To extract the data, data is read and cleaned using two methods 1. Using regular
 
 ![ERD](crowdfunding_db_relationships.PNG)
 
-Finally there was a request to extract emails, names and other information from the data. This is done using quarries and the SQL file is saved for these quarries.
+Finally, there was a request to extract emails, names, and other information from the data. This is done using quarries and the SQL file is saved for these quarries.
